@@ -1,0 +1,11 @@
+U+0020-007F, # Basic Latin
+U+0080-00FF, # Latin-1 Supplement
+U+0100-017F, # Latin Extended-A
+U+0180-024F, # Latin Extended-B
+U+2000-206F, # Punteggiatura generale
+U+2070-209F, # Superscript e subscript
+U+20A0-20CF, # Currency
+U+2100-214F, # Letterlike Symbols
+U+FE50-FE6F, # Small Form Variants
+U+FF00-FFEF, # Halfwidth and Fullwidth Forms
+U+FEFF-FEFF, # Zero width no break space
